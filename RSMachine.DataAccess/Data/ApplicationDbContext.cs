@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RSMachine.Data
+namespace RSMachine.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace RSMachine.Models
+namespace RSMachine.Models.ViewModels
 {
     public class ErrorViewModel
     {
